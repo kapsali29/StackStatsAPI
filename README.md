@@ -17,21 +17,9 @@ This application is developed using Python 2.7
 + urllib3
 
 ## Installation
+`git clone https://github.com/kapsali29/StackStatsAPI.git`
 
-Unzip the `encode-python-assignment.zip` file
-If you use linux, use the **unzip** command to extract the package
-
-*Step 1: Install unzip command*
-
-`sudo apt-get install unzip`
-
-*Step 2: unzip the package*
-
-`unzip encode-python-assignment.zip`
-
-After the files extraction do the following
-
-`cd python-assignment/`
+`cd StackStatsAPI/`
 
 `pip install .`
 
