@@ -13,7 +13,7 @@ requirements = [
     'six==1.12.0',
     'soupsieve==1.7.1',
     'tabulate==0.8.2',
-    'urllib3==1.24.1'
+    'urllib3==1.26.5'
 ]
 
 setup(name='stackstats',
